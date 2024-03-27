@@ -30,7 +30,7 @@ body{
     justify-content: center;
 
     background-color: rgb(71, 128, 128);
-    border-radius: 10px;
+    border-radius: 4px;
     transition: transform 0.3s ease-in-out;
 
     background-position: center;
